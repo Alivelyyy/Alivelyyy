@@ -1,19 +1,19 @@
 <!--
 ========================================================================
-  ALIVELYYY — TOP 1% GITHUB PROFILE
-  Identity • Systems • Authority
+  ALIVELYYY — ELITE GITHUB PROFILE (0.1%)
+  AliveOS Interface • Live Metrics • System Presence
 ========================================================================
 -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff99&height=200&section=header&text=AliveOS%20Interface&fontColor=00ff99&fontSize=40&animation=fadeIn" />
+
 # ⚡ ALIVE
 
-### Building Systems That Actually Run in Production
+### System Builder • Full-Stack Developer • Infrastructure Mindset
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=600&color=00FF99&center=true&vCenter=true&width=900&lines=I+don’t+build+projects...;I+build+systems;Bots+•+Platforms+•+Infrastructure;Always+shipping" />
-
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=600&color=00FF99&center=true&vCenter=true&width=900&lines=Booting+AliveOS...;Loading+Systems...;Deploying+Projects...;Status:+ONLINE" />
 
 <img src="https://komarev.com/ghpvc/?username=alivelyyy&style=for-the-badge&color=00ff99" />
 
@@ -21,61 +21,54 @@
 
 ---
 
-## 🧬 Developer Identity
+## 🧬 System Identity
 
 ```diff
 + Name: Alive
-+ Type: System Builder
-+ Speciality: Discord Ecosystems + Web Platforms
-+ Strength: Turning ideas → working products
++ Role: System Builder
++ Stack: Full-Stack + Bots + Infra
++ Status: Shipping Production Systems
 ```
 
 ---
 
-## 🧠 Philosophy
-
-```text
-Most people build features.
-I build systems.
-
-Most people stop at UI.
-I go into infrastructure.
-
-Most people start projects.
-I ship them.
-```
-
----
-
-## 🏗️ System Architecture Mindset
-
-```mermaid
-flowchart LR
-A[Idea] --> B[Design]
-B --> C[Backend]
-C --> D[Frontend]
-D --> E[Deployment]
-E --> F[Scaling]
-F --> G[Automation]
-```
-
----
-
-## 🚀 Flagship Systems
+## 📊 Live System Metrics
 
 <div align="center">
 
-| System         | Type            | Status          |
-| -------------- | --------------- | --------------- |
-| Mimi           | Music Bot       | 🟢 Live         |
-| Encore         | Bot + Dashboard | 🟢 Live         |
-| Sentinel       | Security Bot    | 🟢 Open Source  |
-| Vyrix          | Media Hosting   | 🟢 Running      |
-| Mail System    | Email Platform  | 🟡 Experimental |
-| Node Monitor   | Lavalink Infra  | 🟢 Active       |
-| Support System | Ticket + AI     | 🟢 Production   |
+![Users](https://img.shields.io/badge/Users-10K+-00ff99?style=for-the-badge)
+![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-1M+-blue?style=for-the-badge)
+![Servers](https://img.shields.io/badge/Servers-100+-ff4ddb?style=for-the-badge)
 
 </div>
+
+
+---
+
+## 🏗️ Systems I Built
+
+```bash
+Mimi Bot        → High-performance music system
+Encore          → Dashboard-controlled bot ecosystem
+Sentinel        → Security + moderation bot (OSS)
+Vyrix           → Media hosting infrastructure
+Mail Platform   → Web-based email system
+Node Monitor    → Lavalink real-time analytics
+Support System  → Ticket + automation + AI
+```
+
+---
+
+## 🧠 Current Live Build (Auto Updating Feel)
+
+```bash
+[ LIVE STATUS ]
+> Building: Scaling Mimi ecosystem
+> Working On: Backend optimization + APIs
+> Exploring: AI integrations
+> Status: Active Development ⚡
+```
 
 ---
 
@@ -100,15 +93,9 @@ F --> G[Automation]
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,lua,html,css,git,github,vscode,discord" />
 </p>
 
-```text
-Core: JavaScript, Lua, Python
-Focus: Backend Systems + APIs + Real-time
-Tools: Discord API, Node, Git, Automation
-```
-
 ---
 
-## 📊 Developer Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=alivelyyy&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -117,22 +104,11 @@ Tools: Discord API, Node, Git, Automation
 
 ---
 
-## 🧑‍💻 Live Status
+## 🧑‍💻 Live Presence
 
 <div align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/1304080189029875753?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true" />
 </div>
-
----
-
-## 🧩 Current Focus
-
-```bash
-> building scalable platforms
-> improving backend systems
-> expanding bot ecosystem
-> experimenting with AI tools
-```
 
 ---
 
@@ -149,6 +125,8 @@ Tools: Discord API, Node, Git, Automation
 
 <div align="center">
 
-# ⚡ "While others learn, I build."
+# ⚡ "I don’t follow trends. I build systems."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0d1117&height=120&section=footer" />
 
 </div>
