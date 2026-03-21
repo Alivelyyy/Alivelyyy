@@ -1,19 +1,19 @@
 <!--
 ========================================================================
-  ALIVELYYY — ELITE GITHUB PROFILE (0.1%)
-  AliveOS Interface • Live Metrics • System Presence
+  ALIVELYYY — SIGNATURE GITHUB PROFILE
+  AliveOS • Full Ecosystem • Top 0.1%
 ========================================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff99&height=200&section=header&text=AliveOS%20Interface&fontColor=00ff99&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff99&height=220&section=header&text=AliveOS&fontColor=00ff99&fontSize=48&animation=fadeIn" />
 
 # ⚡ ALIVE
 
-### System Builder • Full-Stack Developer • Infrastructure Mindset
+### Full-Stack Developer • System Architect • Product Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=600&color=00FF99&center=true&vCenter=true&width=900&lines=Booting+AliveOS...;Loading+Systems...;Deploying+Projects...;Status:+ONLINE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=600&color=00FF99&center=true&vCenter=true&width=900&lines=Designing+Systems;Building+Real+Products;Running+Live+Platforms;Always+Shipping" />
 
 <img src="https://komarev.com/ghpvc/?username=alivelyyy&style=for-the-badge&color=00ff99" />
 
@@ -21,58 +21,117 @@
 
 ---
 
-## 🧬 System Identity
+## 🧬 Identity
 
-```diff
-+ Name: Alive
-+ Role: System Builder
-+ Stack: Full-Stack + Bots + Infra
-+ Status: Shipping Production Systems
+```yaml
+name: Alive
+role: System Builder
+specialization:
+  - Full Stack Web Apps
+  - Discord Bot Ecosystems
+  - Infrastructure & Hosting
+  - AI Integrations
+status: Building Real Products
 ```
 
 ---
 
-## 📊 Live System Metrics
+## 🧠 Philosophy
+
+```text
+I don’t build small projects.
+I build ecosystems.
+
+I don’t just code features.
+I design systems.
+
+I don’t stop at launch.
+I scale.
+```
+
+---
+
+## 📊 Live Metrics
 
 <div align="center">
 
 ![Users](https://img.shields.io/badge/Users-10K+-00ff99?style=for-the-badge)
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge)
-![Requests](https://img.shields.io/badge/Requests-1M+-blue?style=for-the-badge)
-![Servers](https://img.shields.io/badge/Servers-100+-ff4ddb?style=for-the-badge)
+![Requests](https://img.shields.io/badge/API_Requests-1M+-blue?style=for-the-badge)
+![Servers](https://img.shields.io/badge/Discord_Servers-100+-ff4ddb?style=for-the-badge)
 
 </div>
 
-
 ---
 
-## 🏗️ Systems I Built
+## 🏗️ Ecosystem
 
 ```bash
-Mimi Bot        → High-performance music system
-Encore          → Dashboard-controlled bot ecosystem
-Sentinel        → Security + moderation bot (OSS)
-Vyrix           → Media hosting infrastructure
-Mail Platform   → Web-based email system
-Node Monitor    → Lavalink real-time analytics
+Mimi Bot        → Music system (production)
+Encore          → Dashboard + bot ecosystem
+Sentinel        → Security bot (open source)
+Vyrix           → Media hosting platform
+Mail System     → Email web service
+Node Monitor    → Lavalink analytics
 Support System  → Ticket + automation + AI
+AI Tools        → Experimental intelligent apps
 ```
 
 ---
 
-## 🧠 Current Live Build (Auto Updating Feel)
+## 🧠 Currently Building
 
 ```bash
-[ LIVE STATUS ]
-> Building: Scaling Mimi ecosystem
-> Working On: Backend optimization + APIs
-> Exploring: AI integrations
-> Status: Active Development ⚡
+[ LIVE ]
+> Scaling bot infrastructure
+> Optimizing backend APIs
+> Expanding hosting systems
+> Exploring AI integrations
 ```
 
 ---
 
-## 🌐 Live Ecosystem
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+```text
+JavaScript • TypeScript • Python • Lua • HTML • CSS
+```
+
+### 🤖 Frameworks & APIs
+
+```text
+Discord.js • Discord.py • OpenAI • Grok API
+```
+
+### ☁️ Hosting & Infra
+
+```text
+Vercel • Railway • Render • Netlify • Hostinger • Pterodactyl
+```
+
+### 🗄️ Databases & Storage
+
+```text
+Supabase • Neon • Backblaze • Cloudflare • MongoDb • JoshDb • MySql
+```
+
+### 📩 Email & Auth
+
+```text
+Resend • Mailgun • Supabase Auth
+```
+
+### 🛠️ Tools
+
+```text
+VS Code • Git • GitHub • Blender • After Effects • Premiere Pro
+```
+
+---
+
+## 🌐 Live Platforms
 
 <div align="center">
 
@@ -87,14 +146,6 @@ Support System  → Ticket + automation + AI
 
 ---
 
-## ⚙️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,lua,html,css,git,github,vscode,discord" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -104,7 +155,7 @@ Support System  → Ticket + automation + AI
 
 ---
 
-## 🧑‍💻 Live Presence
+## 🧑‍💻 Presence
 
 <div align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/1304080189029875753?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true" />
@@ -125,7 +176,7 @@ Support System  → Ticket + automation + AI
 
 <div align="center">
 
-# ⚡ "I don’t follow trends. I build systems."
+# ⚡ "I build systems that people actually use."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0d1117&height=120&section=footer" />
 
