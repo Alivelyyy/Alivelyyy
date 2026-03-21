@@ -1,234 +1,137 @@
 <!--
 ========================================================================
-  ALIVELYYY — GITHUB PROFILE README
-  Theme: AliveOS / Coding / Terminal / Developer Dashboard
-  Single-file HTML | GitHub-safe | No JS
+  ALIVELYYY — NEXT GEN GITHUB PROFILE
+  Premium • Clean • Founder-Level Presence
 ========================================================================
 -->
 
 <div align="center">
 
-  <h1 style="font-family:JetBrains Mono; font-size:52px;">
-    👨‍💻 ALIVE<span style="color:#00ff99;">@</span>DEV
-  </h1>
+# ⚡ ALIVE
 
-  <p style="font-family:JetBrains Mono; opacity:0.8;">
-    Student • Developer • Builder • Still Alive ⚡
-  </p>
+### Full-Stack Developer • System Architect • Builder
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Hello+World();Booting+AliveOS...;User:+alivelyyy;Code.+Build.+Repeat.;Status:+ONLINE" />
+*I build real-world systems, scalable platforms, and production-ready applications.*
 
-  <br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=700&color=00FF99&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Apps;Creating+Advanced+Discord+Bots;Designing+Real-Time+Systems;Shipping+Projects+That+Actually+Work" />
 
-  <img src="https://komarev.com/ghpvc/?username=alivelyyy&style=for-the-badge&color=00ff99" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=alivelyyy&style=for-the-badge&color=00ff99" />
 
 </div>
 
-<hr>
+---
 
-<!-- ====================== SYSTEM BOOT ====================== -->
+## 🧠 Who Am I
 
-<pre>
-┌──────────────────────────────────────────────────────────┐
-│                    AliveOS v1.0                           │
-│            Developer Environment Initialized              │
-└──────────────────────────────────────────────────────────┘
-[ OK ] Kernel loaded
-[ OK ] Modules initialized
-[ OK ] User authenticated: alivelyyy
-[ OK ] Developer services running
-</pre>
+```ts
+const alive = {
+  role: "Developer / Builder",
+  focus: [
+    "Full Stack Web Apps",
+    "Discord Bot Ecosystems",
+    "Automation Systems",
+    "Real-Time Infrastructure"
+  ],
+  mindset: "Build → Scale → Optimize",
+  currentGoal: "Creating production-level platforms"
+}
+```
 
-<hr>
+---
 
-<!-- ====================== ABOUT ====================== -->
+## 🚀 What I Build
 
-<h2>🧠 About</h2>
+Instead of small projects, I focus on **complete systems**:
 
-<pre>
-$ whoami
-Alive
+* 🤖 High-performance Discord bots
+* 🌐 Full-stack web platforms
+* 📊 Real-time dashboards
+* 📩 Communication systems (email, support)
+* 🧠 AI-powered tools
 
-$ github
-alivelyyy
+---
 
-$ role
-Student / Developer / Creator
+## 🧩 Core Projects
 
-$ mindset
-Learn → Build → Break → Fix → Improve
-</pre>
+```bash
+Mimi Bot           → Music bot used across servers
+Encore             → Advanced bot with full dashboard
+Sentinel           → Open-source security & moderation bot
+Vyrix              → Media hosting platform
+Mail System        → Web-based email service
+Node Dashboard     → Lavalink monitoring system
+Support System     → Ticket + automation platform
+AI Tools           → Experimental intelligent apps
+```
 
-<hr>
+---
 
-<!-- ====================== DISCORD PROFILE ====================== -->
-
-<h2>🧑‍💻 Discord Profile</h2>
+## 🌐 Live Products
 
 <div align="center">
-  <img
-    src="https://lanyard-profile-readme.vercel.app/api/1304080189029875753?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true"
-    style="border:2px solid #00ff99; border-radius:12px;"
-  />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff99?style=for-the-badge)](https://ofcalive.com)
+[![Mimi](https://img.shields.io/badge/Mimi_Bot-Live-ff4ddb?style=for-the-badge)](https://mimibot.app)
+[![Encore](https://img.shields.io/badge/Encore-Dashboard-blue?style=for-the-badge)](https://encorebot.me)
+[![Node](https://img.shields.io/badge/Lavalink-Monitoring-0d1117?style=for-the-badge)](https://node.mimibot.app)
+[![Support](https://img.shields.io/badge/Support-System-red?style=for-the-badge)](https://support.mimibot.app)
+[![Vyrix](https://img.shields.io/badge/Vyrix-Hosting-orange?style=for-the-badge)](https://vyrix.xyz)
+
 </div>
 
-<hr>
+---
 
-<!-- ====================== DISCORD SERVER ====================== -->
-
-<h2>🏠 Discord Community</h2>
-
-<div align="center">
-  <a href="https://discord.gg/ratings">
-    <img
-      src="https://discord.com/api/guilds/1316082573985841245/widget.png?style=banner2"
-      style="border:2px solid #00ff99; border-radius:12px;"
-    />
-  </a>
-</div>
-
-<hr>
-
-<!-- ====================== SKILLS ====================== -->
-
-<h2>⚙️ Tech Stack</h2>
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,python,html,css,git,vscode,discord" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,lua,html,css,git,github,vscode,discord" />
 </p>
 
-<pre>
-Languages:
- - Lua (Roblox)
- - JavaScript
- - Python (learning)
+---
 
-Tools:
- - Roblox Studio
- - VS Code
- - GitHub
- - Discord APIs
-</pre>
-
-<hr>
-
-<!-- ====================== PROJECTS ====================== -->
-
-<h2>📂 Projects</h2>
-
-<pre>
-/projects/
- ├── 🎮 StreamerSimulator_RBX
- ├── 🤖 Mimi Music Bot
- ├── 🧪 UI / System Experiments
- ├── 🌐 MediaVault
- └── ⚙️ Lavalink Node
-</pre>
-
-<hr>
-
-<!-- ====================== PLATFORMS ====================== -->
-
-<h2>🌐 Platforms & Services</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://alive.encorebot.me">
-        <img src="https://img.shields.io/badge/Portfolio-alive.encorebot.me-00ff99?style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://mimi.encoreboot.me">
-        <img src="https://img.shields.io/badge/Music_Bot-MIMI-ff4ddb?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://node.encorebot.me">
-        <img src="https://img.shields.io/badge/Lavalink-node.encorebot.me-blue?style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://mediavault.encorebot.me">
-        <img src="https://img.shields.io/badge/MediaVault-Hosting-orange?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<!-- ====================== OPEN SOURCE ====================== -->
-
-<h2>🧠 Open Source</h2>
-
-<div align="center">
-  <a href="https://apexmusic.netlify.app">
-    <img src="https://img.shields.io/badge/Open_Source-apexmusic.netlify.app-0d1117?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
-<hr>
-
-<!-- ====================== STATS ====================== -->
-
-<h2>📊 Developer Stats</h2>
+## 📊 GitHub Activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=alivelyyy&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alivelyyy&theme=tokyonight&hide_border=true" />
 </div>
 
-<hr>
+---
 
-<!-- ====================== CONFIG ====================== -->
+## 🧑‍💻 Live Presence
 
-<h2>🧩 Configuration</h2>
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1304080189029875753?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true" />
+</div>
 
-<pre>
-# mindset.conf
-FOCUS=true
-CONSISTENCY=high
-DISCIPLINE=learning
-STATUS=still_alive
-</pre>
+---
 
-<hr>
+## 🧩 Developer Config
 
-<!-- ====================== CONNECT ====================== -->
+```yaml
+focus: high
+learning: constant
+building: daily
+status: shipping
+```
 
-<h2>📞 Connect</h2>
+---
+
+## 📞 Connect
 
 <div align="center">
 
-<a href="https://support.encorebot.me">
-  <img src="https://img.shields.io/badge/Support-support.encorebot.me-red?style=for-the-badge" />
-</a>
-
-<a href="https://instagram.com/ofc__alive">
-  <img src="https://img.shields.io/badge/Instagram-@ofc__alive-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+[![Support](https://img.shields.io/badge/Support-Help_Center-red?style=for-the-badge)](https://support.mimibot.app)
+[![Instagram](https://img.shields.io/badge/Instagram-@ofc__alive-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/ofc__alive)
 
 </div>
 
-<hr>
-
-<!-- ====================== FOOTER ====================== -->
+---
 
 <div align="center">
-  <h3 style="font-family:JetBrains Mono;">
-    ⚡ Code. Build. Repeat.
-  </h3>
-  <p style="opacity:0.6;">
-    AliveOS © 2026 — system running.
-  </p>
-</div>
 
-<!--
-========================================================================
-  END OF SINGLE-FILE README
-  Duplicate logs / configs / comments to reach 1000+ lines if needed
-========================================================================
--->
+## ⚡ "I don’t just code. I build systems."
+
+</div>
