@@ -155,12 +155,14 @@ VS Code • Git • GitHub • Blender • After Effects • Premiere Pro
 
 ---
 
-## 🧑‍💻 Presence
+## 🧑‍💻 Profiles
 
 <div align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/1304080189029875753?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true" />
 </div>
-
+<div align="center">
+  <img src="https://api.daily.dev/devcards/v2/CwPYkgZJrclAHju7UJVD4.png?type=wide&r=el0" width="652" alt="Alive !'s Dev Card"/>
+</div>
 ---
 
 ## 📞 Connect
