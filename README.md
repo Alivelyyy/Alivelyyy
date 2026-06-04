@@ -163,6 +163,7 @@ VS Code • Git • GitHub • Blender • After Effects • Premiere Pro
 <div align="center">
   <img src="https://api.daily.dev/devcards/v2/CwPYkgZJrclAHju7UJVD4.png?type=wide&r=el0" width="652" alt="Alive !'s Dev Card"/>
 </div>
+
 ---
 
 ## 📞 Connect
