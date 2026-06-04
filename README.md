@@ -171,7 +171,7 @@ VS Code • Git • GitHub • Blender • After Effects • Premiere Pro
 <div align="center">
 
 [![Support](https://img.shields.io/badge/Support-Contact-red?style=for-the-badge)](https://discord.gg/X9h5agUHRt)
-[![Instagram](https://img.shields.io/badge/Instagram-@ofc__alive-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/crudealive)
+[![Instagram](https://img.shields.io/badge/Instagram-@crudealive-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/crudealive)
 
 </div>
 
