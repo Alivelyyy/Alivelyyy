@@ -11,7 +11,7 @@
 
 # ⚡ ALIVE
 
-### Full-Stack Developer • System Architect • Product Builder
+### Web Developer • System Architect • Product Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=600&color=00FF99&center=true&vCenter=true&width=900&lines=Designing+Systems;Building+Real+Products;Running+Live+Platforms;Always+Shipping" />
 
